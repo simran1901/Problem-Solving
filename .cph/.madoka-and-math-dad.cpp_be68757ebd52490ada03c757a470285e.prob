@@ -1,0 +1,1 @@
+{"name":"Local: madoka-and-math-dad","url":"/home/simran/Desktop/Programming/DSA/madoka-and-math-dad.cpp","tests":[{"id":1647013100295,"input":"5\n1\n2\n3\n4\n10","output":"1\n2\n21\n121\n1212121"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/madoka-and-math-dad.cpp","group":"local","local":true}

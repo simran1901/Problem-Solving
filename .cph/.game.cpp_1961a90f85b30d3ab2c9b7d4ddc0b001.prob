@@ -1,0 +1,1 @@
+{"name":"Local: game","url":"/home/simran/Desktop/Programming/DSA/game.cpp","tests":[{"id":1646561514994,"input":"3\n2\n1 1\n5\n1 0 0 0 1\n4\n1 0 1 1","output":"0\n2\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/game.cpp","group":"local","local":true}

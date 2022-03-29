@@ -1,0 +1,1 @@
+{"name":"Local: puzzles","url":"/home/simran/Desktop/Programming/DSA/puzzles.cpp","tests":[{"id":1647348904858,"input":"4 8\n10 12 10 7 5 22 8 2","output":"5"},{"id":1647349058638,"input":"1 1\n1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/puzzles.cpp","group":"local","local":true}

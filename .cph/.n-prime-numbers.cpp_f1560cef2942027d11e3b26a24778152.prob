@@ -1,0 +1,1 @@
+{"name":"Local: n-prime-numbers","url":"/home/simran/Desktop/Programming/DSA/n-prime-numbers.cpp","tests":[{"id":1645697420274,"input":"4 3\n4 5 6 7","output":"Yes\nNo\nNo\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/n-prime-numbers.cpp","group":"local","local":true}
