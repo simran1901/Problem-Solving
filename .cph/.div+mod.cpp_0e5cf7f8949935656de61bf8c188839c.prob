@@ -1,1 +1,0 @@
-{"name":"Local: div+mod","url":"/home/simran/Desktop/Programming/DSA/div+mod.cpp","tests":[{"id":1646754572783,"input":"5\n1 18 3\n5 8 4\n6 10 6\n1 1000000000 1000000000\n10 12 8","output":"2\n4\n5\n999999999\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/div+mod.cpp","group":"local","local":true}
