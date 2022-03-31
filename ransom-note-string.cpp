@@ -1,4 +1,5 @@
 // Cracking the Coding Interview - Technical Questions
+// Author: simranmakhijani55
 
 // A ransom note can be formed by cutting char out of a
 // magazine to form a new sentence. How would you figure

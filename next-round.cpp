@@ -1,4 +1,5 @@
 // Codeforces
+// Author: simranmakhijani55
 // https://codeforces.com/problemset/problem/158/A
 
 #include <bits/stdc++.h>

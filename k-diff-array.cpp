@@ -1,4 +1,5 @@
 // Cracking the Coding Interview - Technical Questions
+// Author: simranmakhijani55
 
 //  Given an array of distinct integer values,
 // count the number of pairs of integers that have difference k.

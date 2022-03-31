@@ -1,3 +1,7 @@
+// Codeforces
+// Author: simranmakhijani55
+// https://codeforces.com/problemset/problem/1650/b
+
 #include <bits/stdc++.h>
 #define ll long long int
 using namespace std;

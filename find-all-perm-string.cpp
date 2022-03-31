@@ -1,4 +1,5 @@
 // Cracking the Coding Interview - Technical Questions
+// Author: simranmakhijani55
 
 // Given a smaller strings and a bigger string b,
 // design an algorithm to find all permutations of the
