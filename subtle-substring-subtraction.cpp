@@ -1,6 +1,6 @@
 // Codeforces
 // Author: simranmakhijani55
-//
+// https://codeforces.com/contest/1673/problem/A
 
 #include <bits/stdc++.h>
 #define ll long long int
