@@ -1,0 +1,1 @@
+{"name":"Local: 1679A-AvtoBus","url":"/home/simran/Desktop/Programming/DSA/1679A-AvtoBus.cpp","tests":[{"id":1653925238743,"input":"4\n4\n7\n24\n998244353998244352","output":"1 1\n-1\n4 6\n166374058999707392 249561088499561088"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/1679A-AvtoBus.cpp","group":"local","local":true}

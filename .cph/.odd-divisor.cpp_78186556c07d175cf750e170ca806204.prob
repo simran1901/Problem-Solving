@@ -1,0 +1,1 @@
+{"name":"Local: odd-divisor","url":"/home/simran/Desktop/Programming/DSA/odd-divisor.cpp","tests":[{"id":1648633316999,"input":"6\n2\n3\n4\n5\n998244353\n1099511627776","output":"NO\nYES\nNO\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/odd-divisor.cpp","group":"local","local":true}

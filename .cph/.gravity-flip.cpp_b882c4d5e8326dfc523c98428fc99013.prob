@@ -1,0 +1,1 @@
+{"name":"Local: gravity-flip","url":"/home/simran/Desktop/Programming/DSA/gravity-flip.cpp","tests":[{"id":1647166894563,"input":"4\n3 2 1 2","output":"1 2 2 3 "},{"id":1647166911757,"input":"3\n2 3 8","output":"2 3 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/gravity-flip.cpp","group":"local","local":true}

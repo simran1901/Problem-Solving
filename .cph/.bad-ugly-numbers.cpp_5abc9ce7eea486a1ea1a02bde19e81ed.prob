@@ -1,0 +1,1 @@
+{"name":"Local: bad-ugly-numbers","url":"/home/simran/Desktop/Programming/DSA/bad-ugly-numbers.cpp","tests":[{"id":1649991718555,"input":"4\n1\n2\n3\n4","output":"-1\n57\n239\n6789"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/bad-ugly-numbers.cpp","group":"local","local":true}

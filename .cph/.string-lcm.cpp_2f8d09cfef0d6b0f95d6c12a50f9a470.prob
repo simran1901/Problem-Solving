@@ -1,0 +1,1 @@
+{"name":"Local: string-lcm","url":"/home/simran/Desktop/Programming/DSA/string-lcm.cpp","tests":[{"id":1650398423146,"input":"3\nbaba\nba\naa\naaa\naba\nab","output":"baba\naaaaaa\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/string-lcm.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 1684A-Digit-Minimization","url":"/home/simran/Desktop/Programming/DSA/1684A-Digit-Minimization.cpp","tests":[{"id":1653924704559,"input":"3\n12\n132\n487456398","output":"2\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/1684A-Digit-Minimization.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: theatre-square","url":"/home/simran/Desktop/Programming/DSA/theatre-square.cpp","tests":[{"id":1648638580685,"input":"6 6 4","output":"4"},{"id":1648638807185,"input":"4 4 4","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/theatre-square.cpp","group":"local","local":true}

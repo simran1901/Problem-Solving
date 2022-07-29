@@ -1,0 +1,1 @@
+{"name":"Local: 43A-football","url":"/home/simran/Desktop/Programming/DSA/43A-football.cpp","tests":[{"id":1648827866683,"input":"1\nABC","output":"ABC"},{"id":1648827885115,"input":"5\nA\nABA\nABA\nA\nA","output":"A"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/43A-football.cpp","group":"local","local":true}

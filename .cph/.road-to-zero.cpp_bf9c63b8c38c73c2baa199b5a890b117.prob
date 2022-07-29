@@ -1,0 +1,1 @@
+{"name":"Local: road-to-zero","url":"/home/simran/Desktop/Programming/DSA/road-to-zero.cpp","tests":[{"id":1649077846162,"input":"2\n1 3\n391 555\n0 0\n9 4","output":"1337\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/road-to-zero.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: chat-room","url":"/home/simran/Desktop/Programming/DSA/chat-room.cpp","tests":[{"id":1648649014447,"input":"ahhellllloou","output":"YES"},{"id":1648649026503,"input":"hlelo","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/chat-room.cpp","group":"local","local":true}

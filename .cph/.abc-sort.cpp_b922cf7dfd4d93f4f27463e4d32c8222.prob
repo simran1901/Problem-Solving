@@ -1,0 +1,1 @@
+{"name":"Local: abc-sort","url":"/home/simran/Desktop/Programming/DSA/abc-sort.cpp","tests":[{"id":1651506468777,"input":"3\n2\n1 5\n3\n3 2 1\n1\n7331","output":"NO\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/abc-sort.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 1363B-Subsequence-Hate","url":"/home/simran/Desktop/Programming/DSA/1363B-Subsequence-Hate.cpp","tests":[{"id":1657100937241,"input":"7\n001\n100\n101\n010\n0\n1\n001100","output":"0\n0\n1\n1\n0\n0\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/1363B-Subsequence-Hate.cpp","group":"local","local":true}

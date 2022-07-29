@@ -1,0 +1,1 @@
+{"name":"Local: xenia-and-ringroad","url":"/home/simran/Desktop/Programming/DSA/xenia-and-ringroad.cpp","tests":[{"id":1648704967171,"input":"4 3\n3 2 3","output":"6"},{"id":1648704992043,"input":"4 3\n2 3 3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/xenia-and-ringroad.cpp","group":"local","local":true}

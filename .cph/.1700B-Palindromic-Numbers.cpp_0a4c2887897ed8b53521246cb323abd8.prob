@@ -1,0 +1,1 @@
+{"name":"Local: 1700B-Palindromic-Numbers","url":"/home/simran/Desktop/Programming/DSA/1700B-Palindromic-Numbers.cpp","tests":[{"id":1655778329819,"input":"3\n2\n99\n4\n1023\n3\n385","output":"32\n8646\n604"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/1700B-Palindromic-Numbers.cpp","group":"local","local":true}

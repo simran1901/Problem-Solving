@@ -1,0 +1,1 @@
+{"name":"Local: ransom-note-string","url":"/home/simran/Desktop/Programming/DSA/ransom-note-string.cpp","tests":[{"id":1645266175632,"input":"aa\nab","output":"0"},{"id":1645266543374,"input":"aa\naab","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/ransom-note-string.cpp","group":"local","local":true}

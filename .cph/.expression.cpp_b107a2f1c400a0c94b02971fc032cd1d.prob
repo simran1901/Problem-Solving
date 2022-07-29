@@ -1,0 +1,1 @@
+{"name":"Local: expression","url":"/home/simran/Desktop/Programming/DSA/expression.cpp","tests":[{"id":1648652583437,"input":"1\n2\n3","output":"9"},{"id":1648652661415,"input":"2\n10\n3","output":"60"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/simran/Desktop/Programming/DSA/expression.cpp","group":"local","local":true}
