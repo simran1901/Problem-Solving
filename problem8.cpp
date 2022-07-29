@@ -20,7 +20,8 @@ using namespace std;
 bool isBipartite(vv &adj, ll k,
                  vector<bool> &visited, vector<int> &color)
 {
-
+    if (adj[k].size() > 2)
+        return false;
     for (int u : adj[k])
     {
         if (visited[u] == false)
