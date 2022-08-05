@@ -19,17 +19,28 @@ using namespace std;
 
 void solve()
 {
+    int n;
+    cin >> n;
+    vector<int> arr(n);
+    rep(i, n)
+    {
+        cin >> arr[i];
+        // agr iska agla isse km hai ya ye last element hai agr vo max hmare min se chota hai to continue
+    }
+    if (arr[0] < arr[n - 1])
+        cy;
+    else
+        cn;
 }
 
 int main()
 {
     IOS;
-    cin.tie(NULL);
 
-    // int t;
-    // cin >> t;
-    // while (t--)
-    solve();
+    int t;
+    cin >> t;
+    while (t--)
+        solve();
 
     return 0;
 }
