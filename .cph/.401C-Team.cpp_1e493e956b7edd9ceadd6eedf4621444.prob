@@ -1,0 +1,1 @@
+{"name":"Local: 401C-Team","url":"/home/adda247/Desktop/Coding/Problem-Solving/401C-Team.cpp","tests":[{"id":1660943791329,"input":"1 2","output":"101\n"},{"id":1660943856954,"input":"4 8","output":"110110110101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/adda247/Desktop/Coding/Problem-Solving/401C-Team.cpp","group":"local","local":true}

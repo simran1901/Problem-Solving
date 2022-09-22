@@ -1,0 +1,1 @@
+{"name":"Local: contest819","url":"/home/adda247/Desktop/Problem-Solving/contest819.cpp","tests":[{"id":1662482631576,"input":"4\n1\n()\n3\n()(())\n3\n((()))\n4\n(())(())","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/adda247/Desktop/Problem-Solving/contest819.cpp","group":"local","local":true}

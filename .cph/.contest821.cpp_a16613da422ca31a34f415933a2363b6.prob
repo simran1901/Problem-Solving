@@ -1,0 +1,1 @@
+{"name":"Local: contest821","url":"/home/adda247/Desktop/Problem-Solving/contest821.cpp","tests":[{"id":1663599039297,"input":"5\n5 2 0\n8 1 2\n3 0 0\n2 0 1\n6 3 0","output":"11\n7\n15\n10\n2999999997"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/adda247/Desktop/Problem-Solving/contest821.cpp","group":"local","local":true}
