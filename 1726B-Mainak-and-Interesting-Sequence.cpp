@@ -39,7 +39,6 @@ void solve()
         ll temp;
         if (n % 2 != 0)
         {
-            // cout << "djfs";
             temp = m - n + 1;
             rep(i, n - 2) cout << 1 << ' ';
             cout << temp << '\n';
