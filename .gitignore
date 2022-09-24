@@ -1,4 +1,4 @@
 .vscode/
 template.cpp
 .git-credentials
-.gitignore
+.*
