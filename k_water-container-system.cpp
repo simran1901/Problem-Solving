@@ -1,3 +1,7 @@
+// Google Kickstart 2022 - Round F
+// Author: simimakhijani
+// https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb409/0000000000bef79e
+
 #include <bits/stdc++.h>
 #define IOS                       \
     ios_base::sync_with_stdio(0); \
@@ -31,9 +35,7 @@ void solve()
     {
         cin >> x >> y;
         x--, y--;
-        // if (x<y)
         adj[x].push_back(y);
-        // else
         adj[y].push_back(x);
     }
 
@@ -45,7 +47,6 @@ void solve()
     // total water = q;
 
     queue<ll> que;
-    // cout<<q<<endl;
 
     vector<bool> visited(n, false);
 

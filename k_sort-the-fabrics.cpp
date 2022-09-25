@@ -1,3 +1,7 @@
+// Google Kickstart 2022 - Round F
+// Author: simimakhijani
+// https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb409/0000000000beefbb
+
 #include <bits/stdc++.h>
 #define IOS                       \
     ios_base::sync_with_stdio(0); \
