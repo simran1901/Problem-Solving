@@ -1,6 +1,6 @@
 // Leetcode
 // Author: simranmakhijani55
-// 
+// https://leetcode.com/contest/biweekly-contest-88/problems/bitwise-xor-of-all-pairings
 
 // ***************************Given Code***************************
 
