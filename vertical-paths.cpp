@@ -11,15 +11,14 @@ using namespace std;
 
 vector<vector<int>> ans;
  
-void dfs(int node, int parent, vector<int> tree[], vector<int>& path) {
+void dfs(int node, vector<int> tree[], vector<int>& path) {
     path.push_back(node);
-    if((int)tree[node].size() == 1 and tree[node][0] == parent) {
+    if((int)tree[node].size() == 0) {
         ans.push_back(path);
         return;
     }
     for(int nbr : tree[node]) {
-        if(nbr == parent) continue;
-        dfs(nbr, node, tree, path);
+        dfs(nbr, tree, path);
         path.clear();
     }
 }
@@ -36,7 +35,6 @@ void solve() {
         p[i]--;
         if(i != p[i]) {
             tree[p[i]].push_back(i);
-            tree[i].push_back(p[i]);
         } else {
             root = i;
         }
@@ -46,7 +44,7 @@ void solve() {
         return;
     }
     vector<int> path;
-    dfs(root, root, tree, path);
+    dfs(root, tree, path);
     cout << ans.size() << '\n';
     for(auto& f : ans) {
         cout << f.size() << '\n';
