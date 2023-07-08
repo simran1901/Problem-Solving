@@ -58,3 +58,10 @@ map<T, ll> freqMap(vector<T> arr) {
 
     return res;
 }
+
+vl prefArr(vl arr) {
+    repn(i, 1, arr.size()) {
+        arr[i] += arr[i - 1];
+    }
+    return arr;
+}
