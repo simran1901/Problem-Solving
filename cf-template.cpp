@@ -38,7 +38,9 @@
 #define v vector<int>
 #define vv vector<v>
 #define inpArr(arr, m, n) repn(i, m, n) cin >> arr[i];
+#define inpMat(arr, r, c) rep(i, r) rep(j, c) cin >> arr[i][j];
 #define printArr(arr, m, n) repn(i, m, n) cout << arr[i] << ' ';
+#define printMat(arr, r, c) rep(i, r) rep(j, c) cout << arr[i][j] << (j == c-1? '\n':' ');
 #define cy cout << "YES\n"
 #define cn cout << "NO\n"
 #define nl '\n'
@@ -71,7 +73,7 @@ vl prefArr(vl arr) {
 }
 
 void solve() {
-    
+
 }
 
 int main()
