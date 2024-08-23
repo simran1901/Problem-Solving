@@ -23,6 +23,7 @@
 #include <unordered_set>
 #include <algorithm>
 #include <vector>
+#include<set>
 
 #define IOS                       \
     ios_base::sync_with_stdio(0); \
@@ -79,9 +80,9 @@ void solve() {
 int main()
 {
     IOS;
-    // int t;
-    // cin >> t;
-    // while (t--)
-    solve();
+    int t;
+    cin >> t;
+    while (t--)
+        solve();
     return 0;
 }
